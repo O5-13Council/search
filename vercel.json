@@ -8,5 +8,6 @@
         "src": "/(.*)",
         "dest": "server.ts"
     }]
-      "buildCommand": "vite build"
+    "installCommand": "npm install",
+    "buildCommand": "npm build"
 }
