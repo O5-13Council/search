@@ -8,5 +8,5 @@
         "src": "/(.*)",
         "dest": "server.ts"
     }]
-    "buildCommand": "vite build"
+      "buildCommand": "vite build"
 }
